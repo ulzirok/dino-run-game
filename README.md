@@ -1,2 +1,2 @@
 # Simple Dinosaur runner game
-## Ссылка: 
+## Ссылка: https://ulzirok.github.io/dino-run-game/
